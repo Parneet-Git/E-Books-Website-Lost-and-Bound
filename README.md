@@ -1,3 +1,3 @@
 # E-Books-Website
-Basically a demo  site where you can buy books of all genres.
-Fully responsive till iPad width.
+An E-books site where you can find & buy books of all genres.
+Compatible with iPads and responsive
